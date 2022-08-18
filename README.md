@@ -19,7 +19,7 @@
 
 ##
 
-<div>
+<div align="center">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -31,3 +31,8 @@
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />     
 </div>
 
+## 
+
+<div align="center">
+  <img height="150em" src="https://cdn.discordapp.com/attachments/309380097687814145/1009920463440457828/download20220804171902.png"/>
+</div>
