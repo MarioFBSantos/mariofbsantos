@@ -12,15 +12,6 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/mariofbsantos">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariofbsantos&layout=compact&langs_count=7&theme=radical"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mariofbsantos&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
-</div>
-
-##
-
-<div align="center">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -36,4 +27,13 @@
 
 <div align="center">
   <img height="150em" src="https://cdn.discordapp.com/attachments/309380097687814145/1009920463440457828/download20220804171902.png"/>
+</div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/mariofbsantos">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariofbsantos&layout=compact&langs_count=7&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mariofbsantos&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
 </div>
