@@ -1,7 +1,24 @@
 ### Hello 😄
 
 ##### About me:
-- An international Web Developer (Full Stack Developer) currently working at qwst. I’m currently working with VueJS, TypeScript, MongoDB, NestJs, Quasar Framework, SCSS, HTML and NodeJS.
+- An international Web Developer (Full Stack Developer) currently working at qwst.
+
+#### Stack:
+
+I’m currently working with:
+- VueJS 
+- TypeScript 
+- MongoDB
+- NestJs
+- NodeJS
+- Quasar Framework
+- SCSS
+- HTML
+
+#### My next steps:
+- Learn ReactJS
+- Improve my MySQL knowledge
+
 
 ##
 
