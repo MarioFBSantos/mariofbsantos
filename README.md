@@ -1,24 +1,25 @@
-### Hello 😄
+<div style="display: inline_block"><br>
+  <img align="right" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
+  
+  ### About me:
+  - An international Web Developer (Full Stack Developer) currently working at qwst.
 
-##### About me:
-- An international Web Developer (Full Stack Developer) currently working at qwst.
+  #### Stack:
 
-#### Stack:
+  I’m currently working with:
+  - VueJS 
+  - TypeScript 
+  - MongoDB
+  - NestJs
+  - NodeJS
+  - Quasar Framework
+  - SCSS
+  - HTML
 
-I’m currently working with:
-- VueJS 
-- TypeScript 
-- MongoDB
-- NestJs
-- NodeJS
-- Quasar Framework
-- SCSS
-- HTML
-
-#### My next steps:
-- Learn ReactJS
-- Improve my MySQL knowledge
-
+  #### My next steps:
+  - Learn ReactJS
+  - Improve my MySQL knowledge
+</div>
 
 ##
 
