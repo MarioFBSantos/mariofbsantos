@@ -16,8 +16,10 @@
   - SCSS
   - HTML
 
+  #### What i'm doing right now:
+  - Learning and improving my ReactJS knowledge
+
   #### My next steps:
-  - Learn ReactJS
   - Improve my MySQL knowledge
 </div>
 
