@@ -2,11 +2,9 @@
   <img align="right" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
   
   ### About me:
-  - An international Web Developer (Full Stack Developer) currently working at qwst.
+  - An international Web Developer (Full Stack Developer)
 
-  #### Stack:
-
-  I’m currently working with:
+  #### Main stack:
   - VueJS 
   - TypeScript 
   - MongoDB
