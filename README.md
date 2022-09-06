@@ -16,7 +16,7 @@
   - SCSS
   - HTML
 
-  #### What i'm doing right now:
+  #### What i'm currently doing:
   - Learning and improving my ReactJS knowledge
 
   #### My next steps:
