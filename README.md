@@ -19,9 +19,10 @@
   - HTML
 
   #### Currently doing:
-  - Learning and improving my ReactJS knowledge
+  - Learning Vue 3
 
   #### My next steps:
+  - Learn PHP with Vue
   - Improve my MySQL knowledge
 </div>
 
