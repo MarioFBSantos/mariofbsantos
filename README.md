@@ -20,6 +20,8 @@
 
   #### Currently doing:
   - Learning Vue 3
+  - Learning PHP
+  - Learning MySQL
 
   #### My next steps:
   - Learn PHP with Vue
