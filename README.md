@@ -24,8 +24,7 @@
   - Learning MySQL
 
   #### My next steps:
-  - Learn PHP with Vue
-  - Improve my MySQL knowledge
+
 </div>
 
 ##
