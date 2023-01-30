@@ -18,6 +18,8 @@
   - CSS/SCSS <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   - HTML <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
+  Libs/Frameworks/More: AWS, GIT, IBM Watson, GCP, Quasar Framework
+  
   #### Currently doing:
   - Learning Vue 3
   - Learning PHP
