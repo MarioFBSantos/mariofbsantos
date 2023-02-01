@@ -3,7 +3,7 @@
   
   ### Personal website:
   
-  https://mariosantos.surge.sh/#/
+  https://mariosantos.co/#/
   
   ### About me:
   - An international Web Developer (Full Stack Developer)
