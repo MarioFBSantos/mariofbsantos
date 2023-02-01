@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
-  <img align="right" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif](https://cdn.discordapp.com/attachments/309380097687814145/1070491499466338484/octocat-1675295299034.png)"/>
+  <img align="right" src="https://cdn.discordapp.com/attachments/309380097687814145/1070491499466338484/octocat-1675295299034.png"/>
   
   ### Personal website:
   
