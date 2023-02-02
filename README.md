@@ -8,9 +8,6 @@
   ### LinkedIn: 
   
   https://www.linkedin.com/in/mario-fb-santos/
-  
-  ### About me:
-  - An international Web Developer (Full Stack Developer)
 
   #### Main stack:
   - JavaScript <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
