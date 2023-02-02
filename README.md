@@ -5,6 +5,10 @@
   
   https://mariosantos.co/#/
   
+  ### LinkedIn: 
+  
+  https://www.linkedin.com/in/mario-fb-santos/
+  
   ### About me:
   - An international Web Developer (Full Stack Developer)
 
@@ -28,13 +32,6 @@
   #### My next steps:
 
 </div>
-
-##
-
-<div>
-<a href="https://www.linkedin.com/in/mario-fb-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 
 ##
 
