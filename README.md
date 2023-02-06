@@ -27,6 +27,8 @@
   - Learning MySQL
 
   #### My next steps:
+  
+  - Learn React Native
 
 </div>
 
