@@ -1,6 +1,5 @@
 <div style="display: inline_block"><br>
-  <img align="right" width="512"src="https://cdn.discordapp.com/attachments/309380097687814145/1070491499466338484/octocat-1675295299034.png"/>
-  
+
   ### Personal website:
   
   https://mariosantos.co/#/
@@ -20,11 +19,7 @@
   - HTML <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
   Libs/Frameworks/More: AWS, GIT, IBM Watson, GCP, Quasar Framework
-  
-  #### Currently doing:
-  - Learning Vue 3
-  - Learning PHP
-  - Learning MySQL
+
 
   #### My next steps:
   
