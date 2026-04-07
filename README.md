@@ -2,7 +2,7 @@
 
   ### Personal website:
   
-  https://mariofbsantos.co/#/
+  https://mariofbsantos.com/#/
 
 
 </div>
